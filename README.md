@@ -5,8 +5,11 @@
 #### Description:
 Simple exercise to cleanup datasets and combine similar entries based on ID number. Repeat entries will be combined into one string with only unique names retained. The script takes in and outputs CSV files and can be run from the CMD line. 
 
+![Before and After](https://github.com/jasonqhuang/Cleanup_Script/blob/master/Before%20and%20After.png)
+
 #### Required Installations:
 import pandas as pd
+
 import numpy as np
 
 #### Workflow:
